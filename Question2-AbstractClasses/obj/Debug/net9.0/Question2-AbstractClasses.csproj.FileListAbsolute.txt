@@ -1,0 +1,15 @@
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question2-AbstractClasses/bin/Debug/net9.0/Question2-AbstractClasses
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question2-AbstractClasses/bin/Debug/net9.0/Question2-AbstractClasses.deps.json
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question2-AbstractClasses/bin/Debug/net9.0/Question2-AbstractClasses.runtimeconfig.json
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question2-AbstractClasses/bin/Debug/net9.0/Question2-AbstractClasses.dll
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question2-AbstractClasses/bin/Debug/net9.0/Question2-AbstractClasses.pdb
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question2-AbstractClasses/obj/Debug/net9.0/Question2-AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question2-AbstractClasses/obj/Debug/net9.0/Question2-AbstractClasses.AssemblyInfoInputs.cache
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question2-AbstractClasses/obj/Debug/net9.0/Question2-AbstractClasses.AssemblyInfo.cs
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question2-AbstractClasses/obj/Debug/net9.0/Question2-AbstractClasses.csproj.CoreCompileInputs.cache
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question2-AbstractClasses/obj/Debug/net9.0/Question2-AbstractClasses.sourcelink.json
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question2-AbstractClasses/obj/Debug/net9.0/Question2-AbstractClasses.dll
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question2-AbstractClasses/obj/Debug/net9.0/refint/Question2-AbstractClasses.dll
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question2-AbstractClasses/obj/Debug/net9.0/Question2-AbstractClasses.pdb
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question2-AbstractClasses/obj/Debug/net9.0/Question2-AbstractClasses.genruntimeconfig.cache
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question2-AbstractClasses/obj/Debug/net9.0/ref/Question2-AbstractClasses.dll

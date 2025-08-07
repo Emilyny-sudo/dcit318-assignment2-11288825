@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Question2-AbstractClasses/1.0.0": {
+        "runtime": {
+          "Question2-AbstractClasses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Question2-AbstractClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
