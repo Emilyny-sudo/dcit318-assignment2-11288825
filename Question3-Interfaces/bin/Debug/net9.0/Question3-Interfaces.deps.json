@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Question3-Interfaces/1.0.0": {
+        "runtime": {
+          "Question3-Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Question3-Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

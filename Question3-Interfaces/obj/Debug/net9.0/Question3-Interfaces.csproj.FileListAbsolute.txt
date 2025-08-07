@@ -1,0 +1,15 @@
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question3-Interfaces/bin/Debug/net9.0/Question3-Interfaces
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question3-Interfaces/bin/Debug/net9.0/Question3-Interfaces.deps.json
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question3-Interfaces/bin/Debug/net9.0/Question3-Interfaces.runtimeconfig.json
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question3-Interfaces/bin/Debug/net9.0/Question3-Interfaces.dll
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question3-Interfaces/bin/Debug/net9.0/Question3-Interfaces.pdb
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question3-Interfaces/obj/Debug/net9.0/Question3-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question3-Interfaces/obj/Debug/net9.0/Question3-Interfaces.AssemblyInfoInputs.cache
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question3-Interfaces/obj/Debug/net9.0/Question3-Interfaces.AssemblyInfo.cs
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question3-Interfaces/obj/Debug/net9.0/Question3-Interfaces.csproj.CoreCompileInputs.cache
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question3-Interfaces/obj/Debug/net9.0/Question3-Interfaces.sourcelink.json
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question3-Interfaces/obj/Debug/net9.0/Question3-Interfaces.dll
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question3-Interfaces/obj/Debug/net9.0/refint/Question3-Interfaces.dll
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question3-Interfaces/obj/Debug/net9.0/Question3-Interfaces.pdb
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question3-Interfaces/obj/Debug/net9.0/Question3-Interfaces.genruntimeconfig.cache
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question3-Interfaces/obj/Debug/net9.0/ref/Question3-Interfaces.dll
