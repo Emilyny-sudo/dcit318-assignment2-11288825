@@ -1,0 +1,15 @@
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question1-Inheritance/bin/Debug/net9.0/Question1-Inheritance
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question1-Inheritance/bin/Debug/net9.0/Question1-Inheritance.deps.json
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question1-Inheritance/bin/Debug/net9.0/Question1-Inheritance.runtimeconfig.json
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question1-Inheritance/bin/Debug/net9.0/Question1-Inheritance.dll
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question1-Inheritance/bin/Debug/net9.0/Question1-Inheritance.pdb
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question1-Inheritance/obj/Debug/net9.0/Question1-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question1-Inheritance/obj/Debug/net9.0/Question1-Inheritance.AssemblyInfoInputs.cache
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question1-Inheritance/obj/Debug/net9.0/Question1-Inheritance.AssemblyInfo.cs
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question1-Inheritance/obj/Debug/net9.0/Question1-Inheritance.csproj.CoreCompileInputs.cache
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question1-Inheritance/obj/Debug/net9.0/Question1-Inheritance.sourcelink.json
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question1-Inheritance/obj/Debug/net9.0/Question1-Inheritance.dll
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question1-Inheritance/obj/Debug/net9.0/refint/Question1-Inheritance.dll
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question1-Inheritance/obj/Debug/net9.0/Question1-Inheritance.pdb
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question1-Inheritance/obj/Debug/net9.0/Question1-Inheritance.genruntimeconfig.cache
+/Users/mb11in2k15/Desktop/dcit318-assignment2-11288825/Question1-Inheritance/obj/Debug/net9.0/ref/Question1-Inheritance.dll
